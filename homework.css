@@ -1,0 +1,231 @@
+#l {
+    width:150px;
+}
+
+.nab {
+    font-size: 50px;
+    font-weight: 500;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.ft {
+    height: 500px;
+}
+
+.icon {
+    font-size: 20px;
+}
+
+@media(max-width:800px) {
+    .df {
+        font-size: 5px;
+
+    }
+}
+
+.tex {
+    color: black;
+    transition: color ease-in;
+
+}
+
+.tex:hover {
+    color: rgb(238, 157, 19);
+    transition: color ease-in;
+
+}
+
+@media(max-width:600px) {
+    .g {
+        font-size: 10px;
+    }
+}
+
+.icon2 {
+    font-size: 20px;
+    color: black;
+
+
+}
+
+.icon2:hover {
+    color: rgb(238, 157, 19);
+}
+
+.spa {
+    color: black;
+    font-size: 15px;
+}
+
+.spa:hover {
+    color: rgb(255, 196, 0);
+    font-size: 20px;
+}
+
+.con {
+    height: 500px;
+
+}
+
+@media(max-width:800px) {
+    .con {
+        height: 800px;
+    }
+}
+
+.co {
+    border: 3px solid yellow;
+    border-radius: 9cm;
+    font-size: 50px;
+    color: gray;
+
+
+
+}
+
+.vb {
+    font-size: 20px;
+    font-weight: 800;
+    padding-left: 10px;
+}
+
+.aa {}
+
+.cz {
+    padding-top: 20px;
+}
+
+.jj {}
+
+.bgh {
+    background-color: ivory;
+}
+
+.irs {
+
+    padding-bottom: 10px;
+    padding: 10px;
+}
+
+#bm {
+    padding-top: 5px;
+    text-align: center;
+
+}
+
+@media(max-width:800px) {
+    .vb {
+        font-size: 20px;
+        height: 100px;
+
+    }
+}
+
+.x {
+    background-color: red;
+    color: white;
+    padding: 10px;
+}
+
+.t1 {
+    font-size: 20px;
+    font-weight: 600;
+}
+
+.hg {
+    text-align: center;
+}
+
+.all {
+    transition: transform 0.5s ease;
+}
+
+.all:hover {
+    transform: scale(1.1);
+}
+
+.hk {
+
+    width: 500px;
+    padding: 10px;
+}
+
+.yt {
+    text-align: center;
+    background-color: black;
+    font-size: 30px;
+    font-weight: 600;
+}
+
+.own {
+    width: 500px;
+    padding: 10px;
+
+}
+
+.lk {
+    text-align: center;
+    background-color: bisque;
+    font-size: 30px;
+    font-weight: 600;
+    padding: 5px;
+}
+
+.jum {
+    color: rgb(255, 187, 0);
+    border: 3px solid rgb(255, 187, 0);
+    border-radius: 9cm;
+    font-size: 50px;
+}
+
+.jum2 {
+
+    color: rgb(255, 187, 0);
+    border: 3px solid rgb(255, 187, 0);
+    border-radius: 9cm;
+    font-size: 50px;
+}
+
+.che {
+
+    width: 30px;
+    height: 30px;
+    background-color: red;
+
+
+}
+
+.che:hover {
+    background-color: blanchedalmond;
+}
+
+.siz {
+    font-size: 50px;
+    font-weight: 900;
+}
+
+.fe {
+    font-size: 30px;
+    font-weight: 900;
+}
+
+.jum3 {
+    color: rgb(255, 187, 0);
+    border: 3px solid rgb(255, 187, 0);
+    border-radius: 9cm;
+    font-size: 30px;
+}
+
+.sww {
+    font-size: 20px;
+    font-weight: 900;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+.bgf {
+    background-color: rgb(113, 111, 109);
+}
+
+.bgj {
+    background-color: rgb(90, 180, 190);
+}

@@ -1,0 +1,33 @@
+.bb{
+ text-align: left;
+ font-size: 20px;
+ font-family: serif;
+ font-weight: 900;
+
+}
+.padd{
+    padding-top: 50px;
+}
+.pa{
+padding: 10px;
+    
+}
+
+
+
+.n{
+    color: rgb(34, 244, 255);
+    transition: color 0s ;
+    font-weight: 700;
+    padding-top: 40px;
+}
+.n:hover{
+    color: rgb(242, 156, 70);
+}
+img{
+    padding-top: 30px;
+    padding-bottom: 30px;
+}
+.nb{
+    background-color: bisque;
+}

@@ -1,0 +1,51 @@
+.bord {
+    border: 2px solid blue;
+}
+
+.imgs {
+    width: 150px;
+    height: 150px;
+    border-radius: 9cm;
+
+}
+
+.pad {
+    padding: 200px;
+    background-color: black;
+}
+
+.pad2 {
+    padding: 50px;
+    background-color: blue;
+    text-align: center;
+    font-size: 500px;
+    color: white;
+
+}
+.card{
+    width: 300px;
+    height: 400px;
+    background-color: bisque;
+    border-radius: 2px;
+
+
+
+}
+.lk{
+    padding: 5px;
+    text-align: center;
+    font-size: 10px;
+    color: black;
+
+
+}
+.container{
+
+    display: flex;
+    flex-wrap: wrap;
+    flex-direction: row;
+    justify-content: space-evenly;
+    width: 100%;
+    padding: 10px;
+    background-color: cornflowerblue;
+}

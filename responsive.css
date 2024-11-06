@@ -1,0 +1,23 @@
+@media(max-width:500px){
+
+    p{
+        font-size: 3px;
+    }
+}
+
+.p1{
+    font-size: 15px;
+    font-weight: 800;
+    
+}
+.p3{
+    font-size: 15px;
+    font-weight: 600;
+    color:aqua;
+    padding-top: 50px;
+    text-align: left;
+}
+.p3:hover{
+    color: brown;
+    font-size: 20px;
+}
